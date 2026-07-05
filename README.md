@@ -47,8 +47,8 @@ pip install cryptography
 1.Clone the repository (replace your‑username with your actual GitHub username):
 
 ```bash
-git clone https://github.com/your-username/Password-Manager.git
-cd Password-Manager
+git clone https://github.com/Neecool/Syntecxhub_Project-2_Password-Manager.git
+cd password-manager
 ```
 2. Run the manager:
 
